@@ -1,0 +1,30 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+
+# Ignore system-specific files
+*.DS_Store
+*.log
+*.env
+
+# Ignore specific editor settings (optional)
+.vscode/
+.idea/
+*.swp
+
+# Ignore database files (if applicable)
+*.sqlite3
+*.db
+
+# Ignore test files and mock data (if they’re not needed for deployment)
+mock.py
+mockdata.csv
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.backup
