@@ -22,7 +22,6 @@ env/
 
 # Ignore test files and mock data (if they’re not needed for deployment)
 mock.py
-mockdata.csv
 
 # Ignore temporary files
 *.tmp
